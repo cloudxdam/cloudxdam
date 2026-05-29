@@ -3,7 +3,7 @@
 🎓 DAM Graduate  
 💻 Java & Spring Boot Developer  
 💡 Interested in Backend Development, REST APIs and Software Architecture  
-🌱 Currently learning Angular and Android Development  
+🌱 Currently learning Angular
 
 ---
 
@@ -23,16 +23,22 @@ I also enjoy learning new programming languages, frameworks and technologies thr
 **Backend:** Spring Boot · Spring Data JPA · Hibernate · REST APIs · JWT  
 **Frontend:** React · Angular · HTML · CSS · Tailwind CSS  
 **Databases:** MySQL · PostgreSQL · SQLite · MongoDB · H2  
-**Tools:** Git · GitHub · Docker · Linux · Postman · Android Studio · Eclipse IDE  
+**Tools:** Git · GitHub · Docker · Linux · Postman · Android Studio · IntelliJ IDEA · Visual Studio Code · Eclipse IDE  
 
 ---
 
 ## 🚀 Featured Projects
 
-- **Fishing Conditions App** — Android app for fishing conditions using weather, sea and moon phase data.
-- **Library API** — REST API with DTOs, validation, business rules and Swagger documentation.
+- **QubeCore** — International full-stack project developed as part of the eTwinning initiative *"Let's StartUp Together!"* using Java, Spring Boot, React and MySQL.  
+  🌐 https://qubecore.vercel.app/
+
+- **Fishing Conditions App** — Android application that provides weather, sea and moon phase information for anglers.
+
+- **Library API** — REST API featuring DTOs, validation, business rules, exception handling and Swagger documentation.
+
 - **RestoReserve API** — Spring Boot REST API for managing restaurant tables and reservations.
-- **RockFishing Guide API** — REST API focused on fishing spots, species, lures and techniques.
+
+- **RockFishing Guide API** — REST API focused on fishing spots, species, lures, techniques and catch records.
 
 ---
 
