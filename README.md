@@ -49,4 +49,4 @@ My background is in International Trade, with professional experience in HR, adm
 ## Connect With Me
 
 - LinkedIn: [daniel-pacheco-724b25355](https://www.linkedin.com/in/daniel-pacheco-724b25355/)
-- 🌐 Portfolio web: [cloudxdam.github.io/portfolio](https://cloudxdam.github.io/portfolio/)
+- Portfolio web: [cloudxdam.github.io/portfolio](https://cloudxdam.github.io/portfolio/)
