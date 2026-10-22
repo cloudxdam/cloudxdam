@@ -1,47 +1,52 @@
-# 👋 Hi, I'm Daniel Pacheco
+# Hi, I'm Daniel Pacheco 👋
 
 🎓 DAM Graduate  
-💻 Java & Spring Boot Developer  
-💡 Interested in Backend Development, REST APIs and Software Architecture  
-🌱 Currently learning Angular
+💻 Java Backend Developer
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a Multiplatform Application Development (DAM) graduate with a strong interest in backend development and software engineering.
+I'm a software developer focused on backend development with Java and Spring Boot. 
+I build REST APIs and backend applications, with an emphasis on clean code, maintainable architecture, database design and solid engineering practices.
 
-My main stack is Java and Spring Boot. I enjoy building REST APIs, working with databases, designing maintainable applications and applying clean development practices.
-
-I also enjoy learning new programming languages, frameworks and technologies through personal projects and continuous training.
-
----
-
-## 🛠️ Technologies
-
-**Languages:** Java · JavaScript · Python  
-**Backend:** Spring Boot · Spring Data JPA · Hibernate · REST APIs · JWT  
-**Frontend:** React · Angular · HTML · CSS · Tailwind CSS  
-**Databases:** MySQL · PostgreSQL · SQLite · MongoDB · H2  
-**Tools:** Git · GitHub · Docker · Linux · Postman · Android Studio · IntelliJ IDEA · Visual Studio Code · Eclipse IDE  
+Currently, I'm expanding my knowledge of backend architecture, microservices and distributed systems through hands-on projects.
 
 ---
 
-## 🚀 Featured Projects
+## Technologies
 
-- **QubeCore** — International full-stack project developed as part of the eTwinning initiative *"Let's StartUp Together!"* using Java, Spring Boot, React and MySQL.  
-  🌐 https://qubecore.vercel.app/
+**Backend**
+Java · Spring Boot · Spring Data JPA · Hibernate · REST APIs · JWT
 
-- **Fishing Conditions App** — Android application that provides weather, sea and moon phase information for anglers.
+**Databases**
+PostgreSQL · MySQL · MongoDB · SQLite · H2
 
-- **Library API** — REST API featuring DTOs, validation, business rules, exception handling and Swagger documentation.
+**Tools & Platforms**
+Git · GitHub · Docker · Linux · Maven · Postman
 
-- **RestoReserve API** — Spring Boot REST API for managing restaurant tables and reservations.
-
-- **RockFishing Guide API** — REST API focused on fishing spots, species, lures, techniques and catch records.
+**Additional Technologies**
+JavaScript · HTML · CSS · Android Development · Python · React
 
 ---
 
-## 📫 Connect With Me
+## Featured Projects
+
+- [**RestoReserve API**](https://github.com/cloudxdam/restoreserve-api) — Spring Boot REST API for managing restaurant tables and reservations.
+
+- [**Fishing Conditions App**](https://github.com/cloudxdam/fishingconditions) — Android application that provides weather, sea and moon phase information for anglers.
+  
+- [**QubeCore**](https://qubecore.vercel.app/) — International full-stack project developed as part of the eTwinning initiative *"Let's StartUp Together!"* using Java, Spring Boot, React and MySQL.
+
+- [**Library API**](https://github.com/cloudxdam/library-api) — REST API featuring DTOs, validation, business rules, exception handling and Swagger documentation.
+
+---
+
+## Background
+
+My background is in International Trade, with professional experience in HR, administration and logistics. After completing my DAM qualification with a final grade of 9.59/10, I'm now focused on building my career in software development.
+
+## Connect With Me
 
 - LinkedIn: [daniel-pacheco-724b25355](https://www.linkedin.com/in/daniel-pacheco-724b25355/)
+- 🌐 Portfolio web: [cloudxdam.github.io/portfolio](https://cloudxdam.github.io/portfolio/)
